@@ -105,6 +105,5 @@ public class Main
 			}
 			else System.out.printf("The tree doesn't contain element [%d] \n", element);
 		}
-		System.out.println(tree);
 	}
 }
